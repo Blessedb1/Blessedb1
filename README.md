@@ -3,10 +3,9 @@
   ![](https://komarev.com/ghpvc/?username=blessedb1&style=plastic&color=red&label=PROFILE+VIEWS)
   
 - 👋 **Hi, I’m Blessing Etim**
-- 👀 I’m interested in ... ***| Web Development | software Engineering |***
-- 🌱 I’m currently learning ..***.| Html | CSS | C | Python | Javascript |***
-- 💞️ I’m looking to collaborate on ... ***| front-end Development |***
-- 📫 How to reach me ... ***blessingetim6667@gmail.com***
+- 👀 I’m interested in ... ***| front-end Development | software Engineering |***
+- 🌱 I’m currently learning ..***| software EngineeringHtml |***
+- 📫 How to reach me ...[e-mail] ***(blessingetim6667@gmail.com)***
 
 ![](https://cdn.pixabay.com/photo/2023/02/06/18/25/ai-generated-7772529_960_720.jpg
 )
