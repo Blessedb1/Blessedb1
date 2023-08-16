@@ -5,7 +5,7 @@
 - 👋 **Hi, I’m Blessing Etim**
 - 👀 I’m interested in ... **| front-end Development |**
 - 🌱 I’m currently learning ..**| software Engineering |**
-- 📫 How to reach me ...***(blessingetim6667@gmail.com)***
+- 📫 How to reach me ...***blessingetim6667@gmail.com***
 
 ![](https://cdn.pixabay.com/photo/2023/02/06/18/25/ai-generated-7772529_960_720.jpg
 )
