@@ -1,6 +1,6 @@
 <div align="left">
 
-  ![](https://komarev.com/ghpvc/?username=blessedb1&style=plastic&color=red&label=PROFILE+VIEWS)
+  ![](https://komarev.com/ghpvc/?username=blessedb1&style=plastic&color=orange&base=1000)
   
 - 👋 **Hi, I’m Blessing Etim**
 - 👀 I’m interested in ... **| front-end Development |**
